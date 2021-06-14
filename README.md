@@ -1,10 +1,14 @@
 # reading-notes
-
-
-
-
-
 ## growth mindset
+# hello
+
+# My name is Ahmed Jihad Al-Mahayni
+# I started reading when I was young and got hooked on it, and I used to read books about self-development and motivation until I got into something called a growth mindset. I liked this feature a lot and after a lot of effort I became distinguished by it and thinking of a growth mindset
+# Now let's talk about it ,
+
+
+
+
 
 
 
