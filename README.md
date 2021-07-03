@@ -18,4 +18,6 @@
 | read02 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/read02)
 | read03 |  [Link](https://ahmadjihadalmahaini.github.io/reading-notes//read03)
 | read04 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/read04)
-
+| read05 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/read05)
+| read06 |  [Link](https://ahmadjihadalmahaini.github.io/reading-notes//read06)
+| read07 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/read07)
