@@ -22,8 +22,8 @@
 | read05 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/102.md/read05)
 | read06 |  [Link](https://ahmadjihadalmahaini.github.io/reading-notes/102.md/read06)
 | read07 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/102.md/read07)
-#
 
+ 
 
 
 | Code 102 Reading Notes  |   Link     
