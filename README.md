@@ -26,7 +26,7 @@
  
 
 
-| Code 102 Reading Notes  |   Link     
+| Code 201 Reading Notes  |   Link     
 |----------|:-------------
-| growth-mindest | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/102.md/growth-mindest)
+| read01 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/read01)
 
