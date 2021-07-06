@@ -30,5 +30,9 @@
 |----------|:-------------
 | read01 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-01)
 | read02 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-02)
+<<<<<<< HEAD
 | read03 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-03)
+=======
+
+>>>>>>> 6597bdd8b16ee3394c2052d694f2282ed7d87ad5
 
