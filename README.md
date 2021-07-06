@@ -29,4 +29,6 @@
 | Code 201 Reading Notes  |   Link     
 |----------|:-------------
 | read01 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-01)
+| read02 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-02)
+| read03 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-03)
 
