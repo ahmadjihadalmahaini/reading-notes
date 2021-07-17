@@ -36,3 +36,5 @@
 | read06 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-06)
 | read07 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-07)
 | read08 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-08)
+| read09 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-09)
+| read10 | [Link](https://ahmadjihadalmahaini.github.io/reading-notes/201.md/class-10)
